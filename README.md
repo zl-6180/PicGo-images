@@ -1,0 +1,2 @@
+# PicGo-images
+Typora-PicGo
